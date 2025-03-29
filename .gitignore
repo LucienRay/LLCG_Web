@@ -11,3 +11,5 @@ dist/
 # OS 系統產物
 .DS_Store
 Thumbs.db
+
+.idea
