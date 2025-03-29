@@ -29,7 +29,7 @@ textarea {
   font-size: 16px;
 }
 pre {
-  background: #f0f0f0;
+  background: #000000;
   padding: 10px;
 }
 </style>
